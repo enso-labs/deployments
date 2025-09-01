@@ -1,0 +1,3 @@
+[submodule "intepreter"]
+	path = intepreter
+	url = git@github.com:enso-labs/interpreter.git
