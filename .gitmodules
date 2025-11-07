@@ -1,9 +1,6 @@
 [submodule "intepreter"]
 	path = intepreter
 	url = git@github.com:enso-labs/interpreter.git
-[submodule "gilfoyle"]
-	path = gilfoyle
-	url = git@github.com:enso-labs/gilfoyle.git
 [submodule "simple-af-agent"]
 	path = simple-af-agent
 	url = git@github.com:ryaneggz/next-agent.git
