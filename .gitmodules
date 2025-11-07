@@ -19,3 +19,6 @@
 [submodule "a2a-langgraph"]
 	path = a2a-langgraph
 	url = git@github.com:enso-labs/a2a-langgraph.git
+[submodule "shell"]
+	path = shell
+	url = git@github.com:enso-labs/shell.git
